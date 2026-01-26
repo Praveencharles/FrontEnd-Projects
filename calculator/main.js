@@ -14,4 +14,5 @@ function removeVal(){
 
 function evaluateVal(){
     input.value = eval(input.value)
+
 }
