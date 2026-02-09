@@ -1,4 +1,4 @@
-const questions = [
+ const questions = [
     {
         question:"Which is the structure of FrontEnd Development ?",
         answers:[
