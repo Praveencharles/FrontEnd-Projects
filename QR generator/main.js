@@ -15,3 +15,5 @@ function generateQR(){
         },300)
     }
 }
+
+
